@@ -1,7 +1,13 @@
 {
   "name": "lightwork-marketing",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "license": "MIT",
+  "author": {
+    "name": "André Neves",
+    "email": "andrerfneves@protonmail.com",
+    "url": "https://andrenev.es"
+  },
   "dependencies": {
     "node-sass": "^4.10.0",
     "react": "^16.6.0",
